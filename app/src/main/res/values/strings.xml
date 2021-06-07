@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FYPAndroidApp</string>
+    <string name="channel_name">channel</string>
+    <string name="channel_description">notification channel for alerts</string>
+</resources>
